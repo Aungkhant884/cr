@@ -49,3 +49,4 @@ many project Skara developers in the `#openjdk` IRC channel on
 ## License
 
 See the file `LICENSE` for details.
+[JavaScript - Wikipedia.PDF](https://github.com/openjdk/cr/files/13242730/JavaScript.-.Wikipedia.PDF)
